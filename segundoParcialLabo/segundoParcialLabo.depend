@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1625666891 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"extras.h"
+	"paises.h"
+
+1625628612 c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\linkedlist.h
+
+1625666863 c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\parser.h
+
+1625666926 c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\controller.h
+	"paises.h"
+	"LinkedList.h"
+
+1625663430 c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\paises.h
+	"LinkedList.h"
+
+1625667180 c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\extras.h
+
+1625667235 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\extras.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"extras.h"
+
+1625667148 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"paises.h"
+	<time.h>
+
+1625666419 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"parser.h"
+	"paises.h"
+	"extras.h"
+
+1625667011 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"paises.h"
+
+1625666452 source:c:\users\pc\desktop\proyectos_codeblocks\segundoparciallabo\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"LinkedList.h"
+	"Controller.h"
+
